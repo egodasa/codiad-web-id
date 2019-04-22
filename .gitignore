@@ -1,0 +1,12 @@
+*~
+*\#
+*.swp
+config.php
+data/
+workspace/
+.project
+.buildpath
+.settings/
+.svn/
+vendor/
+composer.lock
